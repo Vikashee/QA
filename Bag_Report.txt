@@ -1,0 +1,26 @@
+Структура Bag Report
+
+Title (заголовок)
+
+Summary/Description (краткое описание проблемы)
+
+Precondition (предусловие)
+
+Environment (окружение)
+
+Severity (важность: blocker/critical/major/minor/trivial)
+
+Priority (приоритет: ASAP/high/normal/low)
+
+Status (статус fixed, verified, closed, reopen, not a bug … )
+
+Author (автор)
+
+Steps (шаги)
+
+Actual result (фактический результат)
+
+Expected result (Ожидаемый результат)
+
+Attachments/Additional details (доп.материалы/вложения)
+
